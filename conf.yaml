@@ -1,0 +1,2 @@
+ruleEngineServer: "http://localhost:8080/"
+dbServer: "random"
